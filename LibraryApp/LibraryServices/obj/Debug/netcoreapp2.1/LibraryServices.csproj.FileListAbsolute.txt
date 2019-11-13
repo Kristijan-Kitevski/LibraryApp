@@ -1,0 +1,12 @@
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.deps.json
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.dll
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryServices\bin\Debug\netcoreapp2.1\LibraryServices.pdb
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryServices\bin\Debug\netcoreapp2.1\LibraryDataAcses.dll
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryServices\bin\Debug\netcoreapp2.1\LibraryDataAcses.pdb
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csprojAssemblyReference.cache
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.csproj.CopyComplete
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.dll
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryServices\obj\Debug\netcoreapp2.1\LibraryServices.pdb

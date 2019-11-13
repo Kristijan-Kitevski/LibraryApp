@@ -1,0 +1,11 @@
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryDataAcses\bin\Debug\netcoreapp2.1\LibraryDataAcses.deps.json
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryDataAcses\bin\Debug\netcoreapp2.1\LibraryDataAcses.dll
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryDataAcses\obj\Debug\netcoreapp2.1\LibraryDataAcses.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryDataAcses\obj\Debug\netcoreapp2.1\LibraryDataAcses.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryDataAcses\obj\Debug\netcoreapp2.1\LibraryDataAcses.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryDataAcses\bin\Debug\netcoreapp2.1\LibraryDataAcses.runtimeconfig.json
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryDataAcses\bin\Debug\netcoreapp2.1\LibraryDataAcses.runtimeconfig.dev.json
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryDataAcses\bin\Debug\netcoreapp2.1\LibraryDataAcses.pdb
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryDataAcses\obj\Debug\netcoreapp2.1\LibraryDataAcses.dll
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryDataAcses\obj\Debug\netcoreapp2.1\LibraryDataAcses.pdb
+C:\Users\Kristijan\Desktop\LibraryProdject\LibraryApp\LibraryDataAcses\obj\Debug\netcoreapp2.1\LibraryDataAcses.csprojAssemblyReference.cache
